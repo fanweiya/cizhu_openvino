@@ -1,0 +1,13 @@
+device: CPU
+conf_thresh: 0.1
+iou_thresh: 0.1
+detmodel_type: 960
+pre_model_path: "YOLOMopenvino/cizhu_yolov5_openvino_{}/best-sim.xml"
+cut_patch_size: 960
+save_data_name: "result_light_status.txt"
+save_img_name: "result_light.jpg"
+save_patch_number: 23
+GUI_test_mode: True
+
+
+

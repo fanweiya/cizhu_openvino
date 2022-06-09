@@ -1,0 +1,4 @@
+pyinstaller -F cizhu_main.py --hidden-import=sklearn.utils._typedefs --hidden-import=sklearn.neighbors._partition_nodes
+
+
+pyinstaller -D cizhu_main.py --hidden-import=sklearn.utils._typedefs --hidden-import=sklearn.neighbors._partition_nodes
