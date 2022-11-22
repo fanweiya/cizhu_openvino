@@ -19,7 +19,7 @@ numpy==1.22.0
 opencv-python==4.5.5.64
 openvino==2021.4.2
 pefile==2022.5.30
-Pillow==9.1.1
+Pillow==9.3.0
 pyaml==21.10.1
 pyinstaller==5.1
 pyinstaller-hooks-contrib==2022.7
